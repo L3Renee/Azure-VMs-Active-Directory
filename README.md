@@ -9,14 +9,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://youtu.be/lzHRxxSmQXc)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+  
 
 <h2>Operating Systems Used </h2>
 
@@ -25,30 +25,33 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
+- Step 1: Create Virtual Machines in Azure for Active Directory
+- Step 2: Set up remote desktop
+- Step 3: Use Active Directory Domain Services to set up as an Admin & end user
 
   
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/L3Renee/Azure-VMs-Active-Directory/assets/147538608/6ddfb4da-7c0b-475b-a58b-31b54c1087b5"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created Virtual Machines. 
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/L3Renee/Azure-VMs-Active-Directory/assets/147538608/9c7cc840-acaf-4f03-99aa-5557405b7527"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set up active directory as an administrator.
 </p>
 <p>
 
-</p>
 <br />
-
+<img src="https://github.com/L3Renee/Azure-VMs-Active-Directory/assets/147538608/aeea81eb-4882-436f-ae48-fc8f8d5e23cf"/>
+</p>
+<p>
+Set up active directory as an end user.
 <p>
 
 </p>
