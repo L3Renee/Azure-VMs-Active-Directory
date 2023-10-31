@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1: Create Virtual Machines in Azure for Active Directory
 - Step 2: Set up remote desktop
-- Step 3: Use Active Directory Domain Services to set up as an Admin & end user
+- Step 3: Use Active Directory Domain Services to set up as an Admin & End user
 
   
 
